@@ -4,3 +4,12 @@
 [submodule "/Users/psnyder/.vim/pack/general/start/fastfold"]
 	path = /Users/psnyder/.vim/pack/general/start/fastfold
 	url = https://github.com/Konfekt/FastFold.git
+[submodule "/Users/psnyder/.vim/pack/general/start/vimsurround"]
+	path = /Users/psnyder/.vim/pack/general/start/vimsurround
+	url = https://github.com/tpope/vim-surround.git
+[submodule "/Users/psnyder/.vim/pack/general/start/syntastic"]
+	path = /Users/psnyder/.vim/pack/general/start/syntastic
+	url = https://github.com/vim-syntastic/syntastic.git
+[submodule "/Users/psnyder/.vim/pack/r/start/nvim-r"]
+	path = /Users/psnyder/.vim/pack/r/start/nvim-r
+	url = https://github.com/jalvesaq/Nvim-R.git
