@@ -1,0 +1,14 @@
+[packages]
+  [adding]
+    git submodule add [git_source] [~/.vim/pack/category/[start/opt]/plugin_name]]
+  [updating]
+    git submodule update --remote --merge
+  [removing]
+    git submodule deinit [~/.vim/pack/category/[start/opt]/plugin_name]
+    git rm [~/.vim/pack/category/[start/opt]/plugin_name]
+    rm -Rf [~/.vim/pack/category/[start/opt]/plugin_name]
+
+
+
+
+
