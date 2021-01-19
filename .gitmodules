@@ -1,3 +1,6 @@
 [submodule "/Users/psnyder/.vim/pack/general/start/vim-airline"]
 	path = /Users/psnyder/.vim/pack/general/start/vim-airline
 	url = https://github.com/vim-airline/vim-airline.git
+[submodule "/Users/psnyder/.vim/pack/general/start/fastfold"]
+	path = /Users/psnyder/.vim/pack/general/start/fastfold
+	url = https://github.com/Konfekt/FastFold.git
