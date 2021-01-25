@@ -19,3 +19,6 @@
 [submodule "/Users/psnyder/.vim/pack/general/start/coc-nvim"]
 	path = /Users/psnyder/.vim/pack/general/start/coc-nvim
 	url = https://github.com/neoclide/coc.nvim.git
+[submodule "/Users/psnyder/.vim/pack/general/start/omnisharp-vim"]
+	path = /Users/psnyder/.vim/pack/general/start/omnisharp-vim
+	url = https://github.com/OmniSharp/omnisharp-vim.git
