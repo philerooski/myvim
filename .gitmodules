@@ -13,3 +13,9 @@
 [submodule "/Users/psnyder/.vim/pack/r/start/nvim-r"]
 	path = /Users/psnyder/.vim/pack/r/start/nvim-r
 	url = https://github.com/jalvesaq/Nvim-R.git
+[submodule "/Users/psnyder/.vim/pack/general/start/pear-tree"]
+	path = /Users/psnyder/.vim/pack/general/start/pear-tree
+	url = https://github.com/tmsvg/pear-tree.git
+[submodule "/Users/psnyder/.vim/pack/general/start/coc-nvim"]
+	path = /Users/psnyder/.vim/pack/general/start/coc-nvim
+	url = https://github.com/neoclide/coc.nvim.git
