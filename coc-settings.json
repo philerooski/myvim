@@ -1,0 +1,6 @@
+{
+    // coc-r-lsp
+    "r.lsp.path": "/usr/local/bin/R",
+    "r.lsp.debug": false,
+    "r.lsp.diagnostics": true
+}

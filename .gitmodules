@@ -22,3 +22,6 @@
 [submodule "/Users/psnyder/.vim/pack/general/start/omnisharp-vim"]
 	path = /Users/psnyder/.vim/pack/general/start/omnisharp-vim
 	url = https://github.com/OmniSharp/omnisharp-vim.git
+[submodule "/Users/psnyder/.vim/pack/general/opt/vim-solarized8"]
+	path = /Users/psnyder/.vim/pack/general/opt/vim-solarized8
+	url = https://github.com/lifepillar/vim-solarized8.git
