@@ -25,3 +25,6 @@
 [submodule "/Users/psnyder/.vim/pack/general/opt/vim-solarized8"]
 	path = /Users/psnyder/.vim/pack/general/opt/vim-solarized8
 	url = https://github.com/lifepillar/vim-solarized8.git
+[submodule "/Users/psnyder/.vim/pack/general/start/vim-airline-themes"]
+	path = /Users/psnyder/.vim/pack/general/start/vim-airline-themes
+	url = https://github.com/vim-airline/vim-airline-themes.git
